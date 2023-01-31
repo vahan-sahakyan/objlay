@@ -25,3 +25,7 @@ objlay(object, 3000, 4, false);
 
 // OBJECT, PORT, INDENT, GRAY_PRIMITIVES
 ```
+
+## In Action
+
+![](demo.gif)

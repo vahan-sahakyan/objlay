@@ -1,6 +1,6 @@
 {
   "name": "@vahan-sahakyan/objlay",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Displays an object via Express.js",
   "license": "MIT",
   "repository": "vahan-sahakyan/objlay",
